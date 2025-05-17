@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-05-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Esen is co-organizing [Workshop on Formal Verification of Control Systems with Neural Network Components](https://sites.google.com/view/wfvnnc/) at ACC 2025!
