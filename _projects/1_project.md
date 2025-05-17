@@ -4,7 +4,7 @@ title: Adaptive Autonomy
 description:
 img: assets/img/iros2021-intro.png
 importance: 1
-category: 
+category: work
 related_publications: false
 ---
 
