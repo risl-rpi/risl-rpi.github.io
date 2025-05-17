@@ -5,7 +5,7 @@ description:
 img: assets/img/iros2021-intro.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Autonomous systems may need to operate under different conditions than they have been designed for (e.g., unforeseen faults, different environmental settings, etc.). To deal with this problem, the systems need to be able to adapt their models to new situations without the need for large amounts of data. Our work has focused on leveraging meta-learning and Bayesian techniques to provide adaptation to unforeseen conditions.
