@@ -186,6 +186,7 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - pages/teaching.md
   - package.json
   - package-lock.json
   - purgecss.config.js
