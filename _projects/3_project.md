@@ -4,7 +4,7 @@ title: Predictive Autonomy
 description: 
 img: assets/img/av_scenario.png
 importance: 3
-category: work
+category: research
 ---
 
 For safe navigation and planning, it is important for autonomous systems to accurately predict how other agents in their environments are going to move over time. Our research uses various machine-learning techniques ranging from Gaussian Processes to deep neural networks to enable systems to predict the future states of their environment so that they can proactively plan safe trajectories. These techniques have been applied in various application areas such as  aerial robotics, autonomous driving, and underwater robotics.

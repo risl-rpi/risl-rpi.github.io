@@ -4,7 +4,7 @@ title: Safe and Assured Autonomy
 description:
 img: assets/img/assured_planning.png
 importance: 2
-category: work
+category: research
 ---
 
 Autonomous systems can be subject to uncertainties due to external disturbances or due to the use of internal learning-based components. Since these systems are mainly used in safety-critical settings, it is important to assess the safety of the system before and during its deployment. Our research uses reachability analysis and neural network verification techniques to provide safety-critical autonomous systems with such capabilities.
