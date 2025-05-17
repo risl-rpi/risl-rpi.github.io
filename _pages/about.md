@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Rensselaer Polytechnic Institute</a>. 
+subtitle: <a href='https://www.rpi.edu/'>Rensselaer Polytechnic Institute</a>. 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
