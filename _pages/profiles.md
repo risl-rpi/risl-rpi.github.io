@@ -23,12 +23,12 @@ ms_students:
 
 ## Faculty
 
-{% include profiles.html profiles=page.faculty %}
+{% include profiles.liquid profiles=page.faculty %}
 
 ## Ph.D. Students
 
-{% include profiles.html profiles=page.phd_students %}
+{% include profiles.liquid profiles=page.phd_students %}
 
 ## M.S. Students
 
-{% include profiles.html profiles=page.ms_students %}
+{% include profiles.liquid profiles=page.ms_students %}
