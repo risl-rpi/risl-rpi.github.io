@@ -1,2 +1,3 @@
+<h3>{[Esen Yel](https://esenyel.github.io//personal/)}</h3>
 
 Esen Yel is an assistant professor and director of Reliable Intelligent Systems Lab. She has started at RPI in January, 2024. Before than, she was a postdoc at Stanford University. She earned her Ph.D. degree in systems engineering from University of Virginia, M.S. and B.S. degrees in electrical and electronics engineering from Bogazici University.
