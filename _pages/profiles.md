@@ -7,22 +7,26 @@ nav: true
 nav_order: 7
 
 profiles:
-  - heading: Faculty
+  - text:  ## Faculty
 
-  - image: img_esen.jpg
+  - name: Esen Yel
+    image: img_esen.jpg
     content: about_esen.md
 
-  - heading: PhD Students
+  - text:  ## Ph.D. Students
 
-  - image: img_jainik.jpg
+  - name: Jainik Mehta
+    image: img_jainik.jpg
     content: about_esen.md
 
-  - image: img_taha.jpg
+  - name: M. Taha Bekar
+    image: img_taha.jpg
     content: about_esen.md
 
-  - heading: M.S. Students
+  - text: ## M.S. Students
 
-  - image: 
+  - name: Shriansh Chaabra
+    image: 
     content: about_esen.md
 
 ---
