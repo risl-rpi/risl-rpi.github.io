@@ -20,6 +20,9 @@ layout: page
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
+          {% if profile.name %}
+            <h3>{{ profile.name }}</h3>
+          {% endif %}
         </div>
 
         <div class="clearfix">
