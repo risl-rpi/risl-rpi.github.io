@@ -2,33 +2,39 @@
 layout: page
 permalink: /people/
 title: People
-description: 
+description: Members of the lab
 nav: true
-nav_order: 2
+nav_order: 7
 
 faculty:
-  - image: img_esen.jpg
+  - name: Esen Yel
+    image: img_esen.jpg
     content: about_esen.md
 
 phd_students:
-  - image: img_jainik.jpg
+  - name: Jainik Mehta
+    image: img_jainik.jpg
     content: about_esen.md
-  - image: img_taha.jpg
+
+  - name: M. Taha Bekar
+    image: img_taha.jpg
     content: about_esen.md
 
 ms_students:
-  - image: 
+  - name: Shriansh Chaabra
+    image: 
     content: about_esen.md
 ---
 
+
 ## Faculty
 
-{% include profiles.liquid profiles=page.faculty %}
+{% include profiles.html profiles=page.faculty %}
 
 ## Ph.D. Students
 
-{% include profiles.liquid profiles=page.phd_students %}
+{% include profiles.html profiles=page.phd_students %}
 
 ## M.S. Students
 
-{% include profiles.liquid profiles=page.ms_students %}
+{% include profiles.html profiles=page.ms_students %}
