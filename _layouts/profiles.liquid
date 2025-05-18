@@ -13,7 +13,6 @@ layout: page
             {% if profile.name %}
               <h3>{{ profile.name }}</h3>
             {% endif %}
-            {% include profile.liquid profile=profile %}
           {% endif %}
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
