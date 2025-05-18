@@ -4,6 +4,14 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
+      {% if profile.text %}
+      {{ profile.text | markdownify }}
+    {% else %}
+      {% if profile.name %}
+        <h3>{{ profile.name }}</h3>
+      {% endif %}
+      {% include profile.liquid profile=profile %}
+    {% endif %}
       {% for profile in page.profiles %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
@@ -19,9 +27,6 @@ layout: page
           {% endif %}
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
-          {% endif %}
-          {% if profile.name %}
-            <h3>{{ profile.name }}</h3>
           {% endif %}
         </div>
 

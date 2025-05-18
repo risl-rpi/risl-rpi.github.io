@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+title: people
 description: Members of the lab
 nav: true
-nav_order: 7
+nav_order: 4
 
 profiles:
   - text:  ## Faculty
