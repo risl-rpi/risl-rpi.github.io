@@ -398,10 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-esen-has-started-as-an-assistant-professor-at-rpi",
+            },},{id: "news-esen-has-started-as-an-assistant-professor-at-rpi",
           title: 'Esen has started as an assistant professor at RPI.',
           description: "",
           section: "News",},{id: "news-esen-is-co-organizing-workshop-on-formal-verification-of-control-systems-with-neural-network-components-at-acc-2025",
