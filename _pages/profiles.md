@@ -23,6 +23,10 @@ grad:
   - align: left
     image: img_jainik.jpg
     content: about_jainik.md
+
+  - align: left
+    image: img_shiqian.jpeg
+    content: about_shiqian.md
     
 alumni:
   - align: left
