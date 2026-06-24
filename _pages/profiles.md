@@ -27,6 +27,10 @@ grad:
   - align: left
     image: img_shiqian.jpeg
     content: about_shiqian.md
+
+  - align: left
+    image: img_tristan.png
+    content: about_tristan.md
     
 alumni:
   - align: left
