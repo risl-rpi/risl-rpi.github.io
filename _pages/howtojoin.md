@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /howtojoin/
+title: How to join?
+nav: true
+nav_order: 4
+---
+
 ## How to join RISL?
 
 ### Joining RISL as an RPI Undergraduate student
