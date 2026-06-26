@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /howtojoin/
-title: How to join?
+title: how to join?
 nav: true
 nav_order: 5
 ---
