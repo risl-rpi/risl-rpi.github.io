@@ -3,7 +3,7 @@ layout: page
 permalink: /howtojoin/
 title: How to join?
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## How to join RISL?
