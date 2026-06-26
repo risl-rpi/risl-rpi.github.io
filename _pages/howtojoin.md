@@ -7,3 +7,8 @@ Typically we recruit students close to the beginning of the academic semesters. 
 
 ## Joining RISL as a Ph.D. student
 To join RISL as a Ph.D. student, you have to make a formal Ph.D. application to the depatment of Electrical, Computer, and Systems Engineering at RPI. Please visit the [graduate admissions website](https://ecse.rpi.edu/academics/graduate-programs/graduate-admissions) to be familiar with the procedure, conditions, and deadline. 
+
+If you are interested in joining RISL as a Ph.D. student, please list me as a potential advisor during your application process. Typically I only schedule one-on-one meetings with prospective students only after I review their full application package, if I see them as a potential candidate.
+
+## Joining RISL as a M.S. student
+If you are admitted to RPI's MS program in ECSE or currently enrolled as a M.S. student and interested in doing research in RISL, feel free to send me an email. Please note that research assistanships in RISL is reserved for Ph.D. students.
