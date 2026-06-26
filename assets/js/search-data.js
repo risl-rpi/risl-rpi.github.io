@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/people/";
           },
         },{id: "nav-how-to-join",
-          title: "How to join?",
+          title: "how to join?",
           description: "",
           section: "Navigation",
           handler: () => {
