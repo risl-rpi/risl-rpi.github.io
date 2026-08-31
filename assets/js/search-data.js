@@ -405,14 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-esen-has-started-as-an-assistant-professor-at-rpi",
-          title: 'Esen has started as an assistant professor at RPI.',
-          description: "",
-          section: "News",},{id: "news-esen-is-co-organizing-workshop-on-formal-verification-of-control-systems-with-neural-network-components-at-acc-2025",
+            },},{id: "news-esen-is-co-organizing-workshop-on-formal-verification-of-control-systems-with-neural-network-components-at-acc-2025",
           title: 'Esen is co-organizing Workshop on Formal Verification of Control Systems with Neural Network...',
           description: "",
           section: "News",},{id: "news-shiqian-xu-won-victor-peng-81-summer-research-project-award-for-her-research-on-robustness-evaluation-of-neural-network-controllers-congratulations-shiqian",
           title: 'Shiqian Xu won Victor Peng ‘81 Summer Research Project Award for her research...',
+          description: "",
+          section: "News",},{id: "news-aashrut-jain-won-jo-anne-and-david-kelch-60-undergraduate-research-award-for-his-research-in-semantic-safety-aware-navigation-congratulations-aashrut",
+          title: 'Aashrut Jain won Jo Anne and David Kelch ’60 Undergraduate Research Award for his research in...',
           description: "",
           section: "News",},{id: "projects-adaptive-autonomy",
           title: 'Adaptive Autonomy',
