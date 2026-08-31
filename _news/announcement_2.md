@@ -1,9 +1,8 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2024-01-01
+date: 2028-08-25
 inline: true
 related_posts: false
 ---
 
-Esen has started as an assistant professor at RPI.
+Aashrut Jain won Jo Anne and David Kelch '60 Undergraduate Research Award for his research in semantic safety aware navigation. Congratulations Aashrut!
